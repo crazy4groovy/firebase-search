@@ -442,3 +442,9 @@ search.on('algolia_child_removed', function (record){
   console.log('Record synced', record);
 });
 ```
+
+# Related Resources
+
+[Video demo](https://www.youtube.com/watch?v=JgbeoD3sTy8)
+
+[Medium article](https://medium.com/google-cloud/firebase-search-a-bigger-boat-c85695546d02)
